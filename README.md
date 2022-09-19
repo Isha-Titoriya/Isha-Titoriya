@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Isha Titoriya</h1>
 <h3 align="center">Data Science Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-1408&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-1408" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Isha-Titoriya&label=Profile%20views&color=0e75b6&style=flat" alt="Isha-Titoriya" /> </p>
 
 - 🤚 About me - **I'm data science student, a self-taught programmer. I am working on Data science for more than 1 year, In this period I'm learning new kinds of stuff in day-to-day life and solve many machine learning and deep learning problems. Always open to new opportunities 🙋‍♂️.**
 
