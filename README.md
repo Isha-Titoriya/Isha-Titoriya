@@ -54,8 +54,8 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak-1408&show_icons=true&locale=en&layout=compact" alt="sarthak-1408" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Isha-Titoriya&show_icons=true&locale=en&layout=compact" alt="sarthak-1408" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthak-1408&show_icons=true&locale=en" alt="sarthak-1408" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Isha-Titoriya&show_icons=true&locale=en" alt="sarthak-1408" /></p>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Sarthak-1408&theme=react-dark&hide_border=true)](https://github.com/Sarthak-1408/)
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Isha-Titoriya&theme=react-dark&hide_border=true)](https://github.com/Isha-Titoriya/)
