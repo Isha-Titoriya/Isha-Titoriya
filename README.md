@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Isha Titoriya</h1>
-<h3 align="center">Data Science Student</h3>
+<h3 align="center">Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Isha-Titoriya&label=Profile%20views&color=0e75b6&style=flat" alt="Isha-Titoriya" /> </p>
 
